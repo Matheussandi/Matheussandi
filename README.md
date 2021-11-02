@@ -7,7 +7,7 @@
 - 🎮 Curto bastante jogar no tempo certo;
 - ⚽ E também de praticar diversos esportes.
 
-# 🛠 &nbsp;Habilidades
+# 🛠 &nbsp;Tech Stack
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
