@@ -3,7 +3,7 @@
 - 👨‍💻 Estudando React e React-native;
 - 🌱 Buscando de uma oportunidade na área de TI;
 - 🚀 Não sou de estagnar no conhecimento;
-- 👯 Gosto de conhecer novas culturas;
+- 🌎 Gosto de conhecer novas culturas;
 - 🎮 Curto bastante jogar no tempo certo;
 - ⚽ E também de praticar diversos esportes.
 
