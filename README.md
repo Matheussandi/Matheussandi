@@ -4,7 +4,7 @@
 - 🌱 Buscando uma oportunidade na área de TI;
 - 🚀 Não gosto de ser improdutivo;
 - 🌎 Curto bastante conhecer novas culturas;
-- 🎮 No tempo certo gosto de distrair jogando em grupo;
+- 🎮 No tempo certo gosto de distrair jogando em grupo.
 
 # 🛠 &nbsp;Tech Stack
 
