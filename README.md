@@ -5,7 +5,6 @@
 - 🚀 Não gosto de ser improdutivo;
 - 🌎 Curto bastante conhecer novas culturas;
 - 🎮 No tempo certo gosto de distrair jogando em grupo;
-- ⚽ E também de praticar diversos esportes.
 
 # 🛠 &nbsp;Tech Stack
 
