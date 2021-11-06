@@ -1,10 +1,10 @@
 # 👋 &nbsp;Olá, me chamo Matheus Sandi
 
 - 👨‍💻 Estudando React e React-native;
-- 🌱 Buscando de uma oportunidade na área de TI;
-- 🚀 Não sou de estagnar no conhecimento;
-- 🌎 Gosto de conhecer novas culturas;
-- 🎮 Curto bastante jogar no tempo certo;
+- 🌱 Buscando uma oportunidade na área de TI;
+- 🚀 Não gosto de ser improdutivo;
+- 🌎 Curto bastante conhecer novas culturas;
+- 🎮 No tempo certo gosto de distrair jogando em grupo;
 - ⚽ E também de praticar diversos esportes.
 
 # 🛠 &nbsp;Tech Stack
