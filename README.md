@@ -1,6 +1,5 @@
 # 👋 &nbsp;Olá, me chamo Matheus Sandi
 
-- 👨‍💻 Estudando React e React-native;
 - 🌱 Buscando uma oportunidade na área de TI;
 - 🚀 Não gosto de ser improdutivo;
 - 🌎 Curto bastante conhecer novas culturas;
