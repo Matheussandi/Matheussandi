@@ -1,6 +1,6 @@
 # 👋 &nbsp;Olá, me chamo Matheus Sandi
 
-- 🌱 Buscando uma oportunidade na área de TI;
+- 🌱 Buscando uma oportunidade na área de desenvolvimento web/mobile;
 - 🚀 Não gosto de ser improdutivo;
 - 🌎 Curto bastante conhecer novas culturas;
 - 🎮 No tempo certo gosto de distrair jogando em grupo.
