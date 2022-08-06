@@ -1,6 +1,5 @@
 # 👋 &nbsp;Olá, me chamo Matheus
 
-- 🎯 Visando se tornar desenvolvedor full stack;
 - 🌱 Aprendendo react native;
 - 🔓 Disponível para participar de projetos;
 - 👥 Sinta-se à vontade para se conectar [LinkedIn](https://www.linkedin.com/in/matheussandi);
