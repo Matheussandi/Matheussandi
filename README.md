@@ -9,7 +9,7 @@
 
 ### &nbsp;Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind)](https://skillicons.dev)
 
 ### &nbsp;Back-end e banco de dados
 
@@ -21,5 +21,5 @@
 
 # ⚙️ &nbsp;GitHub Analytics
 
-  [<img src="https://github-readme-stats.vercel.app/api?username=matheussandi&count_private=true&show_icons=true&theme=github_dark&locale=pt-br" height=180>](https://github.com/matheussandi)
-  [<img src="https://github-readme-stats-matheussandi.vercel.app/api/top-langs/?username=matheussandi&layout=compact&theme=github_dark&locale=pt-br" height=180>](https://github.com/matheussandi)
+  [<img src="https://github-readme-stats.vercel.app/api?username=matheussandi&theme=github_dark&locale=pt-br&count_private=true" height=180>](https://github.com/matheussandi)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussandi&layout=compact&theme=github_dark&locale=pt-br" height=180>](https://github.com/matheussandi)
