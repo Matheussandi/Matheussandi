@@ -2,7 +2,6 @@
 
 - 💼 Desenvolvedor Front-end;
 - 🌐 Stack Principal: JavaScript/TypeScript;
-- 🌱 Estudando Node.js;
 - 🚀 Experiência em desenvolvimento web e mobile.
 
 # 🛠 &nbsp;Tech Stack
