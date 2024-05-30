@@ -8,15 +8,18 @@
 
 ### &nbsp;Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,tailwind)](https://skillicons.dev)
 
-### &nbsp;Back-end e banco de dados
+### &nbsp;Back-end
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express)](https://skillicons.dev)
+
+### &nbsp;Banco de dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 
 ### &nbsp;Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,bash,github,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,bash,github,linux,git,docker)](https://skillicons.dev)
 
 # ⚙️ &nbsp;GitHub Analytics
 
