@@ -1,6 +1,6 @@
 # 👋 &nbsp;Olá, me chamo Matheus
 
-- 💼 Desenvolvedor Front-end;
+- 💼 Desenvolvedor full stack;
 - 🌐 Stack Principal: JavaScript/TypeScript;
 - 🚀 Experiência em desenvolvimento web e mobile.
 
