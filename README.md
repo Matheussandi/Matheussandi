@@ -1,7 +1,7 @@
 # 👋 &nbsp;Olá, me chamo Matheus
 
 - 💼 Desenvolvedor full stack;
-- 🌐 Stack Principal: JavaScript/TypeScript;
+- 🌐 Stack Principal: JavaScript/TypeScript e PHP;
 - 🚀 Experiência em desenvolvimento web e mobile.
 
 # 🛠 &nbsp;Tech Stack
